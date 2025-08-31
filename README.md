@@ -69,13 +69,21 @@ Last_Updated_Month
 
 Some interesting findings:
 1️⃣ Most apps are targeted for "Everyone" content rating, showing broad audience reach.
- 2️⃣ Top categories like Family, Tools, and Communication dominate in app count, while Games lead in installs.
- 3️⃣ A small fraction of apps capture the majority of downloads, highlighting market concentration.
- 4️⃣ Apps with higher ratings tend to have better engagement and retention.
- 5️⃣ User sentiment analysis from reviews indicates that positive experiences strongly drive installs and long-term success.
- 6️⃣ Free apps dominate the Play Store, but paid apps with niche value still sustain a dedicated user base.
- 7️⃣ App size shows mixed patterns—lighter apps achieve mass installs, but larger apps succeed in gaming/entertainment segments.
- 8️⃣ Install growth and review patterns reveal strong network effects, where popular apps attract more engagement.
+
+2️⃣ Top categories like Family, Tools, and Communication dominate in app count, while Games lead in installs.
+
+3️⃣ A small fraction of apps capture the majority of downloads, highlighting market concentration.
+ 
+4️⃣ Apps with higher ratings tend to have better engagement and retention.
+ 
+5️⃣ User sentiment analysis from reviews indicates that positive experiences strongly drive installs and long-term success.
+ 
+6️⃣ Free apps dominate the Play Store, but paid apps with niche value still sustain a dedicated user base.
+ 
+7️⃣ App size shows mixed patterns—lighter apps achieve mass installs, but larger apps succeed in gaming/entertainment segments.
+ 
+8️⃣ Install growth and review patterns reveal strong network effects, where popular apps attract more engagement.
+ 
 
 ---
 
